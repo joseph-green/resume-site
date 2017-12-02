@@ -1,0 +1,150 @@
+body {
+
+	padding: 2em 10% 2em 10%;
+
+
+}
+
+.header {
+
+	
+
+}
+
+.header h1 {
+
+
+	color: #131313;
+	padding: 0;
+	margin: 0;
+	padding-bottom: 0.5em;
+
+}
+
+.navigation {
+
+	list-style: none;
+	text-transform: uppercase;
+	margin: 0;
+	padding: 0;
+
+}
+
+.navigation li {
+
+	
+	margin: 0;
+	padding: 0;
+	text-align: left;
+
+}
+
+.navigation a {
+
+	text-decoration: none;
+	color: #131313;
+	font-size: 0.8em;
+	font-weight: 400;
+
+}
+
+.social-navigation {
+
+	position: absolute;
+	right: 10%;
+	top: 3.25em;
+
+}
+
+.social-navigation li {
+	display: inline-block;
+
+
+}
+
+.social-navigation img {
+
+	width: 30px;
+
+}
+
+.content {
+	min-height: 70vh;
+	padding: 1em;
+	background-size: 100%;
+	background-position: center 30%;
+	position: relative;
+	
+}
+
+.content h3 {
+	font-size: 1em;
+	font-weight: 300;
+	text-transform: uppercase;
+}
+
+.content p {
+	padding: 1em 0;
+	width: 40%;
+}
+
+.content a {
+	background-color: #fff;
+	text-decoration: none;
+	padding: 0.5em 1em;
+	border-radius: 0.2em;
+	color: #131313;
+}
+
+.content ul {
+	list-style: none;
+	text-transform: uppercase;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	bottom: 1em;
+}
+
+.content li {
+	display: inline-block;
+	margin: 0;
+	background-color: #fff;
+	text-decoration: none;
+	padding: 0.2em 0.5em;
+	border-radius: 0.2em;
+	color: #131313;
+	font-size: 0.7em;
+}
+
+#page1 .gif_wrapper img {
+
+	width: 100%;
+	text-align: center;
+
+}
+
+#page2 {
+	background-image: url("../pics/shoppe.jpg");
+	color: #fff;
+}
+
+#page3 {
+
+	background-image: url("../pics/humans_for_education.jpg");
+
+	text-align: right;
+	color: #fff;
+
+}
+
+#page4 {
+
+	background-image: url("../pics/pagewright.jpg");
+	color: #fff;
+
+}
+
+#page5 {
+
+
+}
