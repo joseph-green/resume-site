@@ -113,6 +113,10 @@ body {
 	border: 1px solid #131313;
 	display: inline-block;
 }
+.content a::hover {
+	background-color: #131313;
+	color: #fff;
+}
 
 .content ul {
 	list-style: none;
@@ -259,8 +263,8 @@ body {
 	top: 1em;
 }
 #contact .telephone-wrap  img {
-	width: 400px;
-	height: 330px;
+	width: 360px;
+	height: 300px;
 }
 .footer {
 	text-align: center;
